@@ -1,0 +1,99 @@
+# Threats - bad url and domains below to block
+www.echelon9.com
+api.echelon9.com
+dinterperson.xyz
+specgoal.com
+enlib2w9g8mze.x.pipedream.net
+# lockbit 2.0 related
+fibarcarolo.it
+gymund.dk
+gdctax.com.au
+ismea.it
+fed-gmbh.de
+suntecktts.com
+# emerging ransomware 
+decoding.at
+bigblog.at
+lockbit-decryptor.com
+lockbit-decryptor.top
+# DIG manipulated DNS hijack
+cyberclub.one
+# Phishing domain # Categorized by fortinet
+thesocialhire.in
+# gamaredon-primitive-bear reference unit42.paloaltonetworks.com/gamaredon-primitive-bear-ukraine-update-2021/
+jolotras.ru
+moolin.ru
+naniga.ru
+nonimak.ru
+bokuwai.ru
+krashand.ru
+gorigan.ru
+637753576301692900.jolotras.ru
+637753623005957947.jolotras.ru
+637755024217842817.jolotras.ru
+a.nonimak.ru
+aaaa.nonimak.ru
+aaaaa.nonimak.ru
+aaaaaa.nonimak.ru
+0enhzs.moolin.ru
+0ivrlzyk.moolin.ru
+0nxfri.moolin.ru
+bilargo.ru
+firtabo.ru
+firasto.ru
+myces.ru
+teroba.ru
+bacilluse.ru
+circulas.ru
+megatos.ru
+phymateus.ru
+cerambycidae.ru
+coleopteras.ru
+danainae.ru
+# misc phishing and malware 
+trk.klclick3.com
+460f.templates.victoryoverdieting.com
+fujitsu.sbs
+danske-a-kasser.com
+# SocGholish badsites
+track.amishbrand.com
+connect.clevelandskin.com
+track.positiverefreshment.org
+backup.awarfaregaming.com
+click.clickanalytics208.com
+link.easycounter210.com
+sodality.mandmsolicitors.com
+safeguard.couleurmutation.com
+nurse.dmvsvapekings.us
+rocket2.new10k.com
+cigars.pawscolours.com
+stuff.bonneltravel.com
+cardo.diem-co.com
+expense.brick-house.net
+paggy.parmsplace.com
+genesis.ibgenesis.org
+havana.littlehavanacigarstore.com
+cruise.updogtechnologies.com
+predator.foxscalesjewelry.com
+query.dec.works
+wallpapers.uniquechoice-co.com
+natural.cpawalmyrivera.com
+master.ilsrecruitment.com
+west.bykikarose.com
+# Grandoreiro badsites
+35.181.59.254
+35.180.117.32
+52.67.27.173
+54.232.38.61
+barusgorlerat.me
+assesorattlas.me
+atlasassessorcontabilidade.com
+vamosparaonde.com
+mantersaols.com
+premiercombate.eastus.cloudapp.azure.com
+# BlueSky Ransomware IOC URL
+kmsauto.us 
+# BlueSky Ransomware IOC URL
+ccpyeuptrlatb2piua4ukhnhi7lrxgerrcrj4p2b5uhbzqm2xgdjaqid.onion 
+# IOC for Digium phones re web shell attack
+37.49.230.74
