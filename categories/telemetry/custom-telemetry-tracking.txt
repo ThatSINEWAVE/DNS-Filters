@@ -1,0 +1,144 @@
+### tracking analytics telemetry advertising
+### if something doesnt work then add host to whitelist.
+locus.analytics.cloud.com
+#suggestqueries.google.com
+analytics.plex.tv
+matheranalytics.com
+doubleclick.net
+#observed-shit-block
+www.goooooooooooooooooooooooooooooooooooooooooooooooooooooooooogle.com
+g99gle.com
+branch.io
+mixpanel.com
+moatads.com
+mopub.com
+ndmdhs.com
+slotjointfreespins.com
+supersonicads.com
+tosuicunea.com
+vewd.com
+luckynow.me
+byteoversea.com
+perfectcorp.com
+bitsngo.net
+freeaddon.com
+bamgrid.com
+innotechworld.com
+appodealx.com
+searchpowerads.com
+searchpowerplus.com
+onclickbright.com
+teamviewer.com
+near.by
+sentry.io
+footprints-pa.googleapis.com
+fir-auth-gms.firebaseapp.com
+client-telemetry.roblox.com
+app.adjust.world
+app.adjust.net.in
+app.adjust.com
+# adobe
+# adobe.com
+genuine.adobe.com
+adobegenuine.com
+prod.adobegenuine.com
+armmf.adobe.com
+# google location
+userlocation.googleapis.com
+people-pa.googleapis.com
+## MORE SHIT
+# imrworldwide ads or cdn unsure caution
+secure-dcr.imrworldwide.com
+# samsung phone home 3am
+fota-cloud-dn.ospserver.net
+# spotify sharing config wtf MAYBE FALSE POSITIVE
+#sharing-config.spotifycdn.com
+# app measurement or api not needed maybe
+api2.branch.io
+app-measurement.com 
+# other google shit and firebase for apps
+crashlyticsreports-pa.googleapis.com
+googleads.g.doubleclick.net
+firebase-settings.crashlytics.com
+firebaselogging-pa.googleapis.com
+firebaseinstallations.googleapis.com
+ssl.google-analytics.com
+www.googleadservices.com
+quake-pa.googleapis.com
+geller-pa.googleapis.com
+# ads supersonic
+outcome-ssp.supersonicads.com
+outcome-ssp.supersonicads.com 
+pm-gateway.supersonicads.com 
+# hicloud phone home huawei fkoff
+servicesupport.hicloud.co
+connectivitycheck.platform.hicloud.com
+# dodgby bank cloud china
+grs.dbankcloud.cn
+# app shit
+a.applvn.com
+# swift key telemetry
+telemetry.api.swiftkey.com
+# mcaffee mobile cleaning up or telemetry - no thanks
+mvconf.cloud.360safe.com
+mclean.cloud.360safe.com
+# not verified
+fn.gg
+# nzherald.co.nz ads and tracking
+nzme-ads.co.nz
+advertising.nzme.co.nz
+insights.nzherald.co.nz
+lefrontend.nzmelistings.co.nz	
+# nzmelistings.co.nz
+# profile.nzherald.co.nz
+## ad partners
+# www.oneroof.co.nz
+# oneroof.co.nz
+targeting.nzme.arcpublishing.com	
+arcpublishing.com
+www.images-home.com
+images-home.com
+adservice.google.co.nz
+adservice.google.com
+www.googletagservices.com
+dai.google.com
+ads.youtube.com
+securepubads.g.doubleclick.net
+# 3rd party links and app advertisers
+app-measurement.com
+js.matheranalytics.com
+www.i.matheranalytics.com
+app.matheranalytics.com
+www.neighbourly.co.nz
+adcolony.com
+adcolony.xyz
+# deep chain links 
+trafficjunky.net
+as.2020mustang.com
+c2shb.ssp.yahoo.com
+# sony devices may include Smart TV and headphones/nearby devices using BLE.
+ndmdhs.com # found via requests to cdn.meta.ndmdhs.com
+api.amazonvideo.com # found via requests to various subdomains of .api.amazonvideo.com
+me.sony.com # tracking via ap.lex.me.sony.com
+# BeOp Endpoints. They asked for this not to be blocked in Issue #1 of blocklists - CAS in progress for next 3 lines.
+contents.beop.io 
+contents-tracking.beop.io
+t.beop.io
+# BeOps Endpoints to absolutely block
+ads.beop.io
+ads-tracking.beop.io
+s.beop.io
+#####################################################################
+## Other-ads-telemetry 
+## Comment out or not depending on your requirements.
+#####################################################################
+googleadservices.com # Google Ad Services. We NEVER trust this domain EVER because of G-tagreting adverts.
+assets.msn.com # Ads and msn.com assets is horrible for ads on default Windows browser homepage/new_tab etc.
+applytics.zwyr157wwiu6eior.com # Analytics via NordVPN riskware.
+zwyr157wwiu6eior.com # NordVPN riskware. Many complaints online about this domain.
+anydesk.com # We don't use anydesk.
+teamviewer.com # We don't use  teamviewer.
+ipv6.microsoft.com # We don't use ipv6 - optional comment out if you do use ipv6.
+desktop-qualityclient-sub.osp.opera.software # Opera telemetry and quality testing.
+target-client.peel-prod.com # peel-prod phone home? From the Infra-Red Peel remote app on older Samsung device/s.
+# edgedl.me.gvt1.com # Edge download via gvt1 - TBC category/purpose.
