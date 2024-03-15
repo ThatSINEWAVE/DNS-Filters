@@ -9,5 +9,7 @@ The repository contains multiple DNS filter lists, each tailored for different u
 - Malware and phishing sites
 - Content filters for family-safe browsing
 
+## ☕ [Support my work on Ko-Fi](https://ko-fi.com/thatsinewave)
+
 ## Disclaimer
 **Please note that the filter lists included in this repository are not originally created by me. They have been collected from various public sources over the years and are compiled here for convenience.**
