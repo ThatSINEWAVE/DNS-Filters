@@ -5,6 +5,12 @@ This repository houses a curated collection of DNS filter lists, accumulated ove
 
 </div>
 
+<div align="center">
+
+# [Join my discord server](https://discord.gg/2nHHHBWNDw)
+
+</div>
+
 ## Contents
 The repository contains multiple DNS filter lists, each tailored for different use cases or threats. These lists may include, but are not limited to, filters for:
 
